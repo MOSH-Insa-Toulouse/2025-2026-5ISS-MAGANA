@@ -27,7 +27,7 @@ I spent time on managing to achieve a connection with the LORA gateway on top of
 
 I also followed the tutorial for the phone app development to make the LED blink. I was able to make it conclusive and test it in class. Here is a screenshot of my app.
 
-![Clignote](Illustrations/Clignote.png)
+![Clignote](Illustrations/Clignote.jpg)
 
 ## External documentation 
 
