@@ -1,0 +1,97 @@
+{
+    "deduplicationId": "706e9b15-b931-4cc8-a616-0b486e046082",
+    "time": "2023-10-05T13:16:40.165982040+00:00",
+    "deviceInfo": {
+        "tenantId": "e8af5182-7381-4cd4-8087-b2a2ebfd6689",
+        "tenantName": "GEI",
+        "applicationId": "06b8c286-063a-42e7-aad5-81fc17debeec",
+        "applicationName": "MAG_GS",
+        "deviceProfileId": "dd962c53-9d25-4379-a47c-47e111c7335d",
+        "deviceProfileName": "MAG_GS_Profile",
+        "deviceName": "MAG_GS_device",
+        "devEui": "0004a30b002528ec",
+        "deviceClassEnabled": "CLASS_A",
+        "tags": {}
+    },
+    "devAddr": "0193bd32",
+    "adr": false,
+    "dr": 0,
+    "fCnt": 6,
+    "fPort": 1,
+    "confirmed": false,
+    "data": "IQ==",
+    "rxInfo": [
+        {
+            "gatewayId": "b827ebfffecd9654",
+            "uplinkId": 2106510679,
+            "rssi": -117,
+            "snr": -5.75,
+            "channel": 1,
+            "rfChain": 1,
+            "location": {},
+            "context": "T5DfXA==",
+            "metadata": {
+                "region_config_id": "eu868",
+                "region_common_name": "EU868"
+            },
+            "crcStatus": "CRC_OK"
+        },
+        {
+            "gatewayId": "b827ebfffecd9654",
+            "uplinkId": 46767,
+            "time": "2023-10-05T13:16:40.165982040+00:00",
+            "rssi": -117,
+            "snr": -5.75,
+            "channel": 1,
+            "rfChain": 1,
+            "location": {},
+            "context": "T5DfXA==",
+            "metadata": {
+                "region_common_name": "EU868",
+                "region_config_id": "eu868"
+            },
+            "crcStatus": "CRC_OK"
+        },
+        {
+            "gatewayId": "dca632fffe33a26e",
+            "uplinkId": 4269461285,
+            "rssi": -82,
+            "snr": 0.25,
+            "channel": 1,
+            "rfChain": 1,
+            "location": {},
+            "context": "waOUHA==",
+            "metadata": {
+                "region_common_name": "EU868",
+                "region_config_id": "eu868"
+            },
+            "crcStatus": "CRC_OK"
+        },
+        {
+            "gatewayId": "dca632fffe33a26e",
+            "uplinkId": 55239,
+            "time": "2023-09-19T14:15:38.063847146+00:00",
+            "rssi": -82,
+            "snr": 0.25,
+            "channel": 1,
+            "rfChain": 1,
+            "location": {},
+            "context": "waOUHA==",
+            "metadata": {
+                "region_common_name": "EU868",
+                "region_config_id": "eu868"
+            },
+            "crcStatus": "CRC_OK"
+        }
+    ],
+    "txInfo": {
+        "frequency": 868300000,
+        "modulation": {
+            "lora": {
+                "bandwidth": 125000,
+                "spreadingFactor": 12,
+                "codeRate": "CR_4_5"
+            }
+        }
+    }
+}
